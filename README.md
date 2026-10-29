@@ -27,10 +27,10 @@ Um dia de trabalho manual por mês virou minutos.
 
 ### Stack
 
-**IA e dados:** Python · scikit-learn · pandas · NumPy · LLMs (Gemini, Claude) · Faster-Whisper
-**Back-end:** FastAPI · Node.js · SQLAlchemy · PostgreSQL · Supabase
-**Front-end e mobile:** React · Next.js · React Native · Expo · TypeScript
-**Infra e qualidade:** Docker · GitHub Actions · pytest · Vercel · Render
+- **IA e dados:** Python · scikit-learn · pandas · NumPy · LLMs (Gemini, Claude) · Faster-Whisper
+- **Back-end:** FastAPI · Node.js · SQLAlchemy · PostgreSQL · Supabase
+- **Front-end e mobile:** React · Next.js · React Native · Expo · TypeScript
+- **Infra e qualidade:** Docker · GitHub Actions · pytest · Vercel · Render
 
 ### Contato
 
